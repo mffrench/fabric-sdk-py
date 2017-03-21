@@ -107,6 +107,7 @@ pip-selfcheck.json
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # All .idea stuff:
+*.iml
 .idea/*
 
 # User-specific stuff:
